@@ -21,11 +21,10 @@ fun HomePage(navController: NavController) {
 }
 
 
-
 @Composable
 @Preview(showBackground = true, showSystemUi = true)
 fun HomePagePreview() {
     HomePage(
-        navController =rememberNavController()
+        navController = rememberNavController()
     )
 }

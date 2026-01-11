@@ -2,5 +2,6 @@
     <string name="app_name">Solo</string>
     <string name="ui_testing_practice">Ui Testing practice </string>
     <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_api_calling">ApiCallingActivity</string>
 
 </resources>
